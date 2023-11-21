@@ -18,7 +18,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={cn(courier.className, "h-screen bg-[url('/BG.jpg')]")}>
+      <body className={cn(courier.className, "bg-[url('/BG.jpg')]")}>
         {children}
       </body>
     </html>

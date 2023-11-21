@@ -24,7 +24,7 @@ export default function Home() {
         </div>
         <div className="h-full flex items-center">
           <div className="flex flex-col gap-12">
-            <div className="text-8xl">meraqi Movement</div>
+            <div className="md:text-8xl text-4xl">meraqi Movement</div>
             <div className="max-w-lg">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras
               interdum vulputate ex, vel malesuada felis venenatis eget.
